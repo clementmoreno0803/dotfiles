@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = clementmoreno0803@gmail.com
+	name = clement moreno
